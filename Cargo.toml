@@ -1,0 +1,8 @@
+[package]
+name = "chinese_chess"
+version = "0.1.0"
+authors = ["jamtg <jamjam6876@gmail.com>"]
+
+[dependencies]
+wincolor = "0.1"
+term_cursor = "0.2.1"
